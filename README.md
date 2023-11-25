@@ -1,5 +1,6 @@
 # filezilla-for-mac-m1
 ARM64  MAC only
+mac filezilla  M1
 
 # 应用签名
 ## 1.先安装Command Line Tools 工具
