@@ -1,8 +1,10 @@
 # filezilla-for-mac-m1
 Build FileZilla for Macos on ARM64
 
+M1 MAC
+ARM  MAC only
 
-ARM64  MAC only
+ARM64  MAC only  
 
 mac filezilla  M1
 
